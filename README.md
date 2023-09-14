@@ -1,7 +1,7 @@
 ---
 
 ## Movie Ticketing Data Architecture
-#### 🎥 🎟️ 🍿
+#### 
 
 A comprehensive data architecture solution designed to manage movie details, scheduling, ticketing, and user interactions.
 
