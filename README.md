@@ -1,4 +1,3 @@
----
 
 ## Movie Ticketing Data Architecture
 #### 
@@ -23,4 +22,4 @@ For a comprehensive setup guide, please refer to [`docs/configuration_guide.md`]
 
 *(Українська)*: Для докладного керівництва з налаштування зверніться до [`docs/configuration_guide.md`](docs/configuration_guide.md).
 
----
+
